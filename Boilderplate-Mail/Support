@@ -1,0 +1,11 @@
+Boilerplate Mail Support
+Need help, found a bug, or have a feature request? Email boilerplate.mac@gmail.com — we read every message.
+
+Common issues
+Mail Templates icon isn't in the menu bar. Open System Settings → Control Center, scroll to "Menu Bar Only," find Boilerplate Mail, and set it to "Always Show in Menu Bar."
+Clicking a template doesn't insert it. Boilerplate Mail copies the filled-in template to your clipboard and brings Mail to the front — you'll see a "Copied — press ⌘V in Mail to paste" notification. Click into the message body and press ⌘V to paste it in.
+The puzzle-piece icon doesn't appear in Mail's compose window. Open Mail → Settings → Extensions and make sure Boilerplate Mail is turned on — it only appears there after you've run the main app at least once.
+The Quick Insert panel (⌃⌥T) doesn't open. Make sure Boilerplate Mail is running (check the menu bar). If another app already uses that shortcut, it may be intercepted before it reaches Boilerplate Mail.
+Restoring a previous purchase. Open the upgrade screen (triggered when you try to add a 4th template) and click "Restore Purchases."
+Contact
+boilerplate.mac@gmail.com
