@@ -222,6 +222,13 @@
     font-weight: 500;
   }
   .btn-quiet:hover { color: var(--ink); }
+  .direct-note {
+    margin: 14px 0 0;
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    max-width: 42ch;
+    line-height: 1.5;
+  }
 
   /* ---------- Compose mockup ---------- */
 
@@ -496,7 +503,13 @@
         </p>
         <div class="hero-ctas">
           <a class="btn btn-primary" href="https://apps.apple.com/app/id6802861596">Download on the Mac App Store</a>
+          <a class="btn-quiet" href="https://github.com/zoomdredog/Public/releases/download/v1.0-direct/BoilerplateMail.dmg">Or get the direct download →</a>
         </div>
+        <p class="direct-note">
+          The direct download inserts templates with one click, no ⌘V needed —
+          the Mac App Store version can't do this because of Apple's sandboxing rules.
+          Signed and notarized by Apple; not sandboxed or auto-updating.
+        </p>
       </div>
 
       <div class="mock" role="img" aria-label="Apple Mail compose window showing a template with filled-in placeholders">
@@ -604,6 +617,7 @@
       <p>Free to start. $5.99 once to unlock unlimited templates.</p>
       <div class="hero-ctas">
         <a class="btn btn-primary" href="https://apps.apple.com/app/id6802861596">Download on the Mac App Store</a>
+        <a class="btn-quiet" href="https://github.com/zoomdredog/Public/releases/download/v1.0-direct/BoilerplateMail.dmg">Or get the direct download →</a>
       </div>
     </div>
   </section>
